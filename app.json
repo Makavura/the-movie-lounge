@@ -4,11 +4,11 @@
     "slug": "the-movie-lounge",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/IconRebranded.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/SplashScreen.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#007CFF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,8 +21,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/il_splash.png",
+        "backgroundColor": "#007CFF"
       }
     },
     "web": {
